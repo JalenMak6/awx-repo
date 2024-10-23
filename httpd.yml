@@ -1,5 +1,5 @@
 ---
-- nmae: install httpd
+- name: install httpd
   hosts: nfs
   become: true
   tasks:
